@@ -1,0 +1,2 @@
+ErrorDocument 404 /chicks/404.php
+php_value include_path "C:\xampp\php\PEAR;C:/xampp/htdocs/chicks"
